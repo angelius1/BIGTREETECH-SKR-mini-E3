@@ -488,7 +488,6 @@
                                   // Set/get with gcode: M301 E[extruder number, 0-2]
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
-<<<<<<< HEAD
 
   // My Ender 3
  #define DEFAULT_Kp 29.25
@@ -504,12 +503,6 @@
   //#define DEFAULT_Kp 63.0
   //#define DEFAULT_Ki 2.25
   //#define DEFAULT_Kd 440
-=======
-  // Creality Ender-3
-  #define DEFAULT_Kp 21.73
-  #define DEFAULT_Ki 1.54
-  #define DEFAULT_Kd 76.55
->>>>>>> upstream/master
 
 #endif // PIDTEMP
 

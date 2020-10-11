@@ -295,8 +295,8 @@ namespace Language_de {
   PROGMEM Language_Str MSG_FILAMENT_DIAM_E                 = _UxGT("Filamentdurchmesser *");
   PROGMEM Language_Str MSG_FILAMENT_UNLOAD                 = _UxGT("Entladen mm");
   PROGMEM Language_Str MSG_FILAMENT_LOAD                   = _UxGT("Laden mm");
-  PROGMEM Language_Str MSG_ADVANCE_K                       = _UxGT("Vorschubfaktor");
-  PROGMEM Language_Str MSG_ADVANCE_K_E                     = _UxGT("Vorschubfaktor *");
+  PROGMEM Language_Str MSG_ADVANCE_K                       = _UxGT("Advance K");
+  PROGMEM Language_Str MSG_ADVANCE_K_E                     = _UxGT("Advance K *");
   PROGMEM Language_Str MSG_CONTRAST                        = _UxGT("LCD-Kontrast");
   PROGMEM Language_Str MSG_STORE_EEPROM                    = _UxGT("Konfig. speichern");
   PROGMEM Language_Str MSG_LOAD_EEPROM                     = _UxGT("Konfig. laden");
